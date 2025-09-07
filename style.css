@@ -119,7 +119,7 @@ body {
         background-color: var(--botao-azul-efeito);
         color: var(--cor-de-fundo);
 }
-@media screen and (min-width: 300px; max-widht: 1000px;) {
+@media screen and (max-width: 768px;) {
         .container{
                 display: block;
                 background-image: none;
