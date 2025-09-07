@@ -119,3 +119,28 @@ body {
         background-color: var(--botao-azul-efeito);
         color: var(--cor-de-fundo);
 }
+@media screen and (min-width: 300px; max-widht: 1000px;) {
+        .container{
+                display: block;
+                background-image: none;
+}
+        .container__imagem{
+                 width: 50vh;
+}
+        .container__caixa{
+                margin: 2em 2em;
+}
+        .secundario{
+                margin: 0;
+                align-items: center;
+}
+        .secundario__imagem{
+                width: 50vh;
+}
+        .dispositivos__lista{
+                display: block;
+        }
+.rodape__lista{
+        display: block;
+}
+}
